@@ -42,15 +42,16 @@ pip install pandas numpy matplotlib
 ## Sample Visualizations
 
 ### Monthly Sales
-![Monthly Sales](images/monthly_sales.png)
+
+![Monthly Sales](monthly_sales.png)
 
 ### Sales by City
-![City Sales](images/Sales_by_city.png)
+
+![Sales by City](Sales_by_city.png)
 
 ### Orders by Hour
-![Orders by Hour](images/Order_by_hour.png)
-2. Open and run the notebook.
 
+![Orders by Hour](Order_by_hour.png)
 ## Author
 
 **Mohd Arhab Ahmad**
