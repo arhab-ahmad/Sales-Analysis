@@ -45,10 +45,10 @@ pip install pandas numpy matplotlib
 ![Monthly Sales](images/monthly_sales.png)
 
 ### Sales by City
-![City Sales](images/city_sales.png)
+![City Sales](images/Sales_by_city.png)
 
 ### Orders by Hour
-![Orders by Hour](images/orders_by_hour.png)
+![Orders by Hour](images/Order_by_hour.png)
 2. Open and run the notebook.
 
 ## Author
